@@ -43,4 +43,4 @@ E-mail : h20203944@glab.hallym.ac.kr
 
 Link: [lswon72][github]
 
-[github]: http://gitgub.com/lswon72
+[github]: http://github.com/lswon72
